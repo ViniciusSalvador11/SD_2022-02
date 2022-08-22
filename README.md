@@ -4,4 +4,7 @@ git init # Inicializa um repositório git
 git status # Mostra o status do repositório
 git clone  # Clona uma repositório remoto para a direótio de trabalho local 
 # SD_2022-02
+
+James
 Danilo
+
